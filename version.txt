@@ -1,2 +1,2 @@
-VERSION=0.1
-CHANGE_LOG= [+] Legit ESP
+VERSION=0.2
+CHANGE_LOG= [+] CS2 Update
